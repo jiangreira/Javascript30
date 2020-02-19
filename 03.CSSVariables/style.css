@@ -1,0 +1,40 @@
+/** @format */
+
+:root {
+  --base: #f7f444;
+  --spacing: 10px;
+  --blur: 10px;
+}
+body {
+  font-family: "Noto Sans TC", sans-serif;
+  width: 100vw;
+}
+h2{
+  margin-top: 20px;
+  text-align: center;
+}
+img {
+  width: 100%;
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
+}
+.controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+  margin: 25px auto;
+}
+.sp {
+  margin: 5px 0;
+}
+.content {
+  width: 70%;
+  margin: 25px auto;
+}
+@media (min-width: 992px) {
+  .controls,.content {
+    width: 50%;
+  }
+}

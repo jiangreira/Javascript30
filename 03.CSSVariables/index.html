@@ -1,0 +1,62 @@
+<!-- @format -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>用JS調整CSS濾鏡</title>
+  </head>
+  <!-- <link rel="stylesheet" href="style.css" /> -->
+  <link rel="stylesheet" href="../plugins/bootstrap.min.css" class="css" />
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap" rel="stylesheet" />
+  <style>
+    
+  </style>
+  <body>
+    <h2>用JS調整CSS濾鏡</h2>
+    <div class="controls row">
+      <div class="sp col">
+        <label for="spacing">間距</label>
+        <input id="spacing" type="range" name="spacing" class="custom-range w-auto" min="10" max="200" value="10" data-sizing="px" />
+      </div>
+      <div class="sp col">
+        <label for="blur">濾鏡</label>
+        <input id="blur" type="range" name="blur" class="custom-range w-auto" min="0" max="25" value="10" data-sizing="px" />
+      </div>
+      <div class="sp col">
+        <label for="base">顏色</label>
+        <input id="base" type="color" name="base" value="#F7F444" />
+      </div>
+    </div>
+    <div class="content">
+      <img src="https://picsum.photos/500/300/?random=1" />
+    </div>
+
+    <!-- JS -->
+    <script src="../plugins/jquery-3.4.1.min.js"></script>
+    <script src="../plugins/popper.min.js"></script>
+    <script src="../plugins/bootstrap.min.js"></script>
+    <script>
+      var inputs = $(".sp input");
+      $(inputs).on('mouseover',chg);
+      $(inputs).on('change',chg);
+
+      function chg() {
+        var size = $(this).data().sizing || '';
+        $('.content').css(`--${this.name}`, this.value + size);
+     }
+    </script>
+    <!-- <script>
+      var inputs =document.querySelectorAll('input');
+      inputs.forEach(input=>input.addEventListener('change',chg));
+      inputs.forEach(input=>input.addEventListener('mouseover',chg));
+      function chg(){
+        var size=this.dataset.sizing||'';
+        var name=this.name;
+        var value=this.value
+        document.documentElement.style.setProperty(`--${name}`,value+size);
+      }
+    </script> -->
+  </body>
+</html>

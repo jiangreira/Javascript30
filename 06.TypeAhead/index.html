@@ -42,20 +42,19 @@
         var matchArray = searchMatch(this.value, alllist);
         var html = matchArray
           .map(place => {
-            var regex = new RegExp(this.vlaue, "gi");
+            // var regex = new RegExp(this.vlaue, "gi");
             if (place.PostalCode.includes(this.value)) {
-              var pscode = place.PostalCode.replace(regex, `<span class="hl">${this.value}</span>`);
-              console.log(place.PostalCode);
+              var pscode = place.PostalCode.replace(this.value, `<span class="hl">${this.value}</span> `);
             } else {
               var pscode = place.PostalCode;
             }
             if (place.Country.includes(this.value)) {
-              var country = place.Country.replace(regex, `<span class="hl">${this.value}</span>`);
+              var country = place.Country.replace(this.value, `<span class="hl">${this.value}</span>`);
             } else {
               var country = place.Country;
             }
             if (place.CountryEng.includes(this.value)) {
-              var countryeng = place.CountryEng.replace(regex, `<span class="hl">${this.value}</span>`);
+              var countryeng = place.CountryEng.replace(this.value, `<span class="hl">${this.value}</span>`);
             } else {
               var countryeng = place.CountryEng;
             }

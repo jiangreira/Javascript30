@@ -1,0 +1,1857 @@
+[
+    {
+        "PostalCode": "100",
+        "Country": "台北市中正區",
+        "CountryEng": "Zhongzheng Dist., Taipei City"
+    },
+    {
+        "PostalCode": "103",
+        "Country": "台北市大同區",
+        "CountryEng": "Datong Dist., Taipei City"
+    },
+    {
+        "PostalCode": "104",
+        "Country": "台北市中山區",
+        "CountryEng": "Zhongshan Dist., Taipei City"
+    },
+    {
+        "PostalCode": "105",
+        "Country": "台北市松山區",
+        "CountryEng": "Songshan Dist., Taipei City"
+    },
+    {
+        "PostalCode": "106",
+        "Country": "台北市大安區",
+        "CountryEng": "Da’an Dist., Taipei City"
+    },
+    {
+        "PostalCode": "108",
+        "Country": "台北市萬華區",
+        "CountryEng": "Wanhua Dist., Taipei City"
+    },
+    {
+        "PostalCode": "110",
+        "Country": "台北市信義區",
+        "CountryEng": "Xinyi Dist., Taipei City"
+    },
+    {
+        "PostalCode": "111",
+        "Country": "台北市士林區",
+        "CountryEng": "Shilin Dist., Taipei City"
+    },
+    {
+        "PostalCode": "112",
+        "Country": "台北市北投區",
+        "CountryEng": "Beitou Dist., Taipei City"
+    },
+    {
+        "PostalCode": "114",
+        "Country": "台北市內湖區",
+        "CountryEng": "Neihu Dist., Taipei City"
+    },
+    {
+        "PostalCode": "115",
+        "Country": "台北市南港區",
+        "CountryEng": "Nangang Dist., Taipei City"
+    },
+    {
+        "PostalCode": "116",
+        "Country": "台北市文山區",
+        "CountryEng": "Wenshan Dist., Taipei City"
+    },
+    {
+        "PostalCode": "200",
+        "Country": "基隆市仁愛區",
+        "CountryEng": "Ren’ai Dist., Keelung City"
+    },
+    {
+        "PostalCode": "201",
+        "Country": "基隆市信義區",
+        "CountryEng": "Xinyi Dist., Keelung City"
+    },
+    {
+        "PostalCode": "202",
+        "Country": "基隆市中正區",
+        "CountryEng": "Zhongzheng Dist., Keelung City"
+    },
+    {
+        "PostalCode": "203",
+        "Country": "基隆市中山區",
+        "CountryEng": "Zhongshan Dist., Keelung City"
+    },
+    {
+        "PostalCode": "204",
+        "Country": "基隆市安樂區",
+        "CountryEng": "Anle Dist., Keelung City"
+    },
+    {
+        "PostalCode": "205",
+        "Country": "基隆市暖暖區",
+        "CountryEng": "Nuannuan Dist., Keelung City"
+    },
+    {
+        "PostalCode": "206",
+        "Country": "基隆市七堵區",
+        "CountryEng": "Qidu Dist., Keelung City"
+    },
+    {
+        "PostalCode": "207",
+        "Country": "新北市萬里區",
+        "CountryEng": "Wanli Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "208",
+        "Country": "新北市金山區",
+        "CountryEng": "Jinshan Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "209",
+        "Country": "連江縣南竿鄉",
+        "CountryEng": "Nangan Township, Lienchiang County"
+    },
+    {
+        "PostalCode": "210",
+        "Country": "連江縣北竿鄉",
+        "CountryEng": "Beigan Township, Lienchiang County"
+    },
+    {
+        "PostalCode": "211",
+        "Country": "連江縣莒光鄉",
+        "CountryEng": "Juguang Township, Lienchiang County"
+    },
+    {
+        "PostalCode": "212",
+        "Country": "連江縣東引鄉",
+        "CountryEng": "Dongyin Township, Lienchiang County"
+    },
+    {
+        "PostalCode": "220",
+        "Country": "新北市板橋區",
+        "CountryEng": "Banqiao Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "221",
+        "Country": "新北市汐止區",
+        "CountryEng": "Xizhi Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "222",
+        "Country": "新北市深坑區",
+        "CountryEng": "Shenkeng Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "223",
+        "Country": "新北市石碇區",
+        "CountryEng": "Shiding Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "224",
+        "Country": "新北市瑞芳區",
+        "CountryEng": "Ruifang Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "226",
+        "Country": "新北市平溪區",
+        "CountryEng": "Pingxi Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "227",
+        "Country": "新北市雙溪區",
+        "CountryEng": "Shuangxi Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "228",
+        "Country": "新北市貢寮區",
+        "CountryEng": "Gongliao Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "231",
+        "Country": "新北市新店區",
+        "CountryEng": "Xindian Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "232",
+        "Country": "新北市坪林區",
+        "CountryEng": "Pinglin Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "233",
+        "Country": "新北市烏來區",
+        "CountryEng": "Wulai Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "234",
+        "Country": "新北市永和區",
+        "CountryEng": "Yonghe Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "235",
+        "Country": "新北市中和區",
+        "CountryEng": "Zhonghe Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "236",
+        "Country": "新北市土城區",
+        "CountryEng": "Tucheng Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "237",
+        "Country": "新北市三峽區",
+        "CountryEng": "Sanxia Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "238",
+        "Country": "新北市樹林區",
+        "CountryEng": "Shulin Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "239",
+        "Country": "新北市鶯歌區",
+        "CountryEng": "Yingge Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "241",
+        "Country": "新北市三重區",
+        "CountryEng": "Sanchong Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "242",
+        "Country": "新北市新莊區",
+        "CountryEng": "Xinzhuang Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "243",
+        "Country": "新北市泰山區",
+        "CountryEng": "Taishan Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "244",
+        "Country": "新北市林口區",
+        "CountryEng": "Linkou Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "247",
+        "Country": "新北市蘆洲區",
+        "CountryEng": "Luzhou Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "248",
+        "Country": "新北市五股區",
+        "CountryEng": "Wugu Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "249",
+        "Country": "新北市八里區",
+        "CountryEng": "Bali Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "251",
+        "Country": "新北市淡水區",
+        "CountryEng": "Tamsui Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "252",
+        "Country": "新北市三芝區",
+        "CountryEng": "Sanzhi Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "253",
+        "Country": "新北市石門區",
+        "CountryEng": "Shimen Dist., New Taipei City"
+    },
+    {
+        "PostalCode": "260",
+        "Country": "宜蘭縣宜蘭市",
+        "CountryEng": "Yilan City, Yilan County"
+    },
+    {
+        "PostalCode": "261",
+        "Country": "宜蘭縣頭城鎮",
+        "CountryEng": "Toucheng Township, Yilan County"
+    },
+    {
+        "PostalCode": "262",
+        "Country": "宜蘭縣礁溪鄉",
+        "CountryEng": "Jiaoxi Township, Yilan County"
+    },
+    {
+        "PostalCode": "263",
+        "Country": "宜蘭縣壯圍鄉",
+        "CountryEng": "Zhuangwei Township, Yilan County"
+    },
+    {
+        "PostalCode": "264",
+        "Country": "宜蘭縣員山鄉",
+        "CountryEng": "Yuanshan Township, Yilan County"
+    },
+    {
+        "PostalCode": "265",
+        "Country": "宜蘭縣羅東鎮",
+        "CountryEng": "Luodong Township, Yilan County"
+    },
+    {
+        "PostalCode": "266",
+        "Country": "宜蘭縣三星鄉",
+        "CountryEng": "Sanxing Township, Yilan County"
+    },
+    {
+        "PostalCode": "267",
+        "Country": "宜蘭縣大同鄉",
+        "CountryEng": "Datong Township, Yilan County"
+    },
+    {
+        "PostalCode": "268",
+        "Country": "宜蘭縣五結鄉",
+        "CountryEng": "Wujie Township, Yilan County"
+    },
+    {
+        "PostalCode": "269",
+        "Country": "宜蘭縣冬山鄉",
+        "CountryEng": "Dongshan Township, Yilan County"
+    },
+    {
+        "PostalCode": "270",
+        "Country": "宜蘭縣蘇澳鎮",
+        "CountryEng": "Su’ao Township, Yilan County"
+    },
+    {
+        "PostalCode": "272",
+        "Country": "宜蘭縣南澳鄉",
+        "CountryEng": "Nan’ao Township, Yilan County"
+    },
+    {
+        "PostalCode": "290",
+        "Country": "釣魚台",
+        "CountryEng": "Diaoyutai"
+    },
+    {
+        "PostalCode": "300",
+        "Country": "新竹市東區",
+        "CountryEng": "East Dist., Hsinchu City"
+    },
+    {
+        "PostalCode": "300",
+        "Country": "新竹市北區",
+        "CountryEng": "North Dist., Hsinchu City"
+    },
+    {
+        "PostalCode": "300",
+        "Country": "新竹市香山區",
+        "CountryEng": "Xiangshan Dist., Hsinchu City"
+    },
+    {
+        "PostalCode": "302",
+        "Country": "新竹縣竹北市",
+        "CountryEng": "Zhubei City, Hsinchu County"
+    },
+    {
+        "PostalCode": "303",
+        "Country": "新竹縣湖口鄉",
+        "CountryEng": "Hukou Township, Hsinchu County"
+    },
+    {
+        "PostalCode": "304",
+        "Country": "新竹縣新豐鄉",
+        "CountryEng": "Xinfeng Township, Hsinchu County"
+    },
+    {
+        "PostalCode": "305",
+        "Country": "新竹縣新埔鎮",
+        "CountryEng": "Xinpu Township, Hsinchu County"
+    },
+    {
+        "PostalCode": "306",
+        "Country": "新竹縣關西鎮",
+        "CountryEng": "Guanxi Township, Hsinchu County"
+    },
+    {
+        "PostalCode": "307",
+        "Country": "新竹縣芎林鄉",
+        "CountryEng": "Qionglin Township, Hsinchu County"
+    },
+    {
+        "PostalCode": "308",
+        "Country": "新竹縣寶山鄉",
+        "CountryEng": "Baoshan Township, Hsinchu County"
+    },
+    {
+        "PostalCode": "310",
+        "Country": "新竹縣竹東鎮",
+        "CountryEng": "Zhudong Township, Hsinchu County"
+    },
+    {
+        "PostalCode": "311",
+        "Country": "新竹縣五峰鄉",
+        "CountryEng": "Wufeng Township, Hsinchu County"
+    },
+    {
+        "PostalCode": "312",
+        "Country": "新竹縣橫山鄉",
+        "CountryEng": "Hengshan Township, Hsinchu County"
+    },
+    {
+        "PostalCode": "313",
+        "Country": "新竹縣尖石鄉",
+        "CountryEng": "Jianshi Township, Hsinchu County"
+    },
+    {
+        "PostalCode": "314",
+        "Country": "新竹縣北埔鄉",
+        "CountryEng": "Beipu Township, Hsinchu County"
+    },
+    {
+        "PostalCode": "315",
+        "Country": "新竹縣峨眉鄉",
+        "CountryEng": "Emei Township, Hsinchu County"
+    },
+    {
+        "PostalCode": "320",
+        "Country": "桃園市中壢區",
+        "CountryEng": "Zhongli Dist., Taoyuan City"
+    },
+    {
+        "PostalCode": "324",
+        "Country": "桃園市平鎮區",
+        "CountryEng": "Pingzhen Dist., Taoyuan City"
+    },
+    {
+        "PostalCode": "325",
+        "Country": "桃園市龍潭區",
+        "CountryEng": "Longtan Dist., Taoyuan City"
+    },
+    {
+        "PostalCode": "326",
+        "Country": "桃園市楊梅區",
+        "CountryEng": "Yangmei Dist., Taoyuan City City"
+    },
+    {
+        "PostalCode": "327",
+        "Country": "桃園市新屋區",
+        "CountryEng": "Xinwu Dist., Taoyuan City"
+    },
+    {
+        "PostalCode": "328",
+        "Country": "桃園市觀音區",
+        "CountryEng": "Guanyin Dist., Taoyuan City"
+    },
+    {
+        "PostalCode": "330",
+        "Country": "桃園市桃園區",
+        "CountryEng": "Taoyuan Dist., Taoyuan City"
+    },
+    {
+        "PostalCode": "333",
+        "Country": "桃園市龜山區",
+        "CountryEng": "Guishan Dist., Taoyuan City"
+    },
+    {
+        "PostalCode": "334",
+        "Country": "桃園市八德區",
+        "CountryEng": "Bade Dist., Taoyuan City"
+    },
+    {
+        "PostalCode": "335",
+        "Country": "桃園市大溪區",
+        "CountryEng": "Daxi Dist., Taoyuan City"
+    },
+    {
+        "PostalCode": "336",
+        "Country": "桃園市復興區",
+        "CountryEng": "Fuxing Dist., Taoyuan City"
+    },
+    {
+        "PostalCode": "337",
+        "Country": "桃園市大園區",
+        "CountryEng": "Dayuan Dist., Taoyuan City"
+    },
+    {
+        "PostalCode": "338",
+        "Country": "桃園市蘆竹區",
+        "CountryEng": "Luzhu Dist., Taoyuan City"
+    },
+    {
+        "PostalCode": "350",
+        "Country": "苗栗縣竹南鎮",
+        "CountryEng": "Zhunan Township, Miaoli County"
+    },
+    {
+        "PostalCode": "351",
+        "Country": "苗栗縣頭份市",
+        "CountryEng": "Toufen City, Miaoli County"
+    },
+    {
+        "PostalCode": "352",
+        "Country": "苗栗縣三灣鄉",
+        "CountryEng": "Sanwan Township, Miaoli County"
+    },
+    {
+        "PostalCode": "353",
+        "Country": "苗栗縣南庄鄉",
+        "CountryEng": "Nanzhuang Township, Miaoli County"
+    },
+    {
+        "PostalCode": "354",
+        "Country": "苗栗縣獅潭鄉",
+        "CountryEng": "Shitan Township, Miaoli County"
+    },
+    {
+        "PostalCode": "356",
+        "Country": "苗栗縣後龍鎮",
+        "CountryEng": "Houlong Township, Miaoli County"
+    },
+    {
+        "PostalCode": "357",
+        "Country": "苗栗縣通霄鎮",
+        "CountryEng": "Tongxiao Township, Miaoli County"
+    },
+    {
+        "PostalCode": "358",
+        "Country": "苗栗縣苑裡鎮",
+        "CountryEng": "Yuanli Township, Miaoli County"
+    },
+    {
+        "PostalCode": "360",
+        "Country": "苗栗縣苗栗市",
+        "CountryEng": "Miaoli City, Miaoli County"
+    },
+    {
+        "PostalCode": "361",
+        "Country": "苗栗縣造橋鄉",
+        "CountryEng": "Zaoqiao Township, Miaoli County"
+    },
+    {
+        "PostalCode": "362",
+        "Country": "苗栗縣頭屋鄉",
+        "CountryEng": "Touwu Township, Miaoli County"
+    },
+    {
+        "PostalCode": "363",
+        "Country": "苗栗縣公館鄉",
+        "CountryEng": "Gongguan Township, Miaoli County"
+    },
+    {
+        "PostalCode": "364",
+        "Country": "苗栗縣大湖鄉",
+        "CountryEng": "Dahu Township, Miaoli County"
+    },
+    {
+        "PostalCode": "365",
+        "Country": "苗栗縣泰安鄉",
+        "CountryEng": "Tai’an Township, Miaoli County"
+    },
+    {
+        "PostalCode": "366",
+        "Country": "苗栗縣銅鑼鄉",
+        "CountryEng": "Tongluo Township, Miaoli County"
+    },
+    {
+        "PostalCode": "367",
+        "Country": "苗栗縣三義鄉",
+        "CountryEng": "Sanyi Township, Miaoli County"
+    },
+    {
+        "PostalCode": "368",
+        "Country": "苗栗縣西湖鄉",
+        "CountryEng": "Xihu Township, Miaoli County"
+    },
+    {
+        "PostalCode": "369",
+        "Country": "苗栗縣卓蘭鎮",
+        "CountryEng": "Zhuolan Township, Miaoli County"
+    },
+    {
+        "PostalCode": "400",
+        "Country": "台中市中區",
+        "CountryEng": "Central Dist., Taichung City"
+    },
+    {
+        "PostalCode": "401",
+        "Country": "台中市東區",
+        "CountryEng": "East Dist., Taichung City"
+    },
+    {
+        "PostalCode": "402",
+        "Country": "台中市南區",
+        "CountryEng": "South Dist., Taichung City"
+    },
+    {
+        "PostalCode": "403",
+        "Country": "台中市西區",
+        "CountryEng": "West Dist., Taichung City"
+    },
+    {
+        "PostalCode": "404",
+        "Country": "台中市北區",
+        "CountryEng": "North Dist., Taichung City"
+    },
+    {
+        "PostalCode": "406",
+        "Country": "台中市北屯區",
+        "CountryEng": "Beitun Dist., Taichung City"
+    },
+    {
+        "PostalCode": "407",
+        "Country": "台中市西屯區",
+        "CountryEng": "Xitun Dist., Taichung City"
+    },
+    {
+        "PostalCode": "408",
+        "Country": "台中市南屯區",
+        "CountryEng": "Nantun Dist., Taichung City"
+    },
+    {
+        "PostalCode": "411",
+        "Country": "台中市太平區",
+        "CountryEng": "Taiping Dist., Taichung City"
+    },
+    {
+        "PostalCode": "412",
+        "Country": "台中市大里區",
+        "CountryEng": "Dali Dist., Taichung City"
+    },
+    {
+        "PostalCode": "413",
+        "Country": "台中市霧峰區",
+        "CountryEng": "Wufeng Dist., Taichung City"
+    },
+    {
+        "PostalCode": "414",
+        "Country": "台中市烏日區",
+        "CountryEng": "Wuri Dist., Taichung City"
+    },
+    {
+        "PostalCode": "420",
+        "Country": "台中市豐原區",
+        "CountryEng": "Fengyuan Dist., Taichung City"
+    },
+    {
+        "PostalCode": "421",
+        "Country": "台中市后里區",
+        "CountryEng": "Houli Dist., Taichung City"
+    },
+    {
+        "PostalCode": "422",
+        "Country": "台中市石岡區",
+        "CountryEng": "Shigang Dist., Taichung City"
+    },
+    {
+        "PostalCode": "423",
+        "Country": "台中市東勢區",
+        "CountryEng": "Dongshi Dist., Taichung City"
+    },
+    {
+        "PostalCode": "424",
+        "Country": "台中市和平區",
+        "CountryEng": "Heping Dist., Taichung City"
+    },
+    {
+        "PostalCode": "426",
+        "Country": "台中市新社區",
+        "CountryEng": "Xinshe Dist., Taichung City"
+    },
+    {
+        "PostalCode": "427",
+        "Country": "台中市潭子區",
+        "CountryEng": "Tanzi Dist., Taichung City"
+    },
+    {
+        "PostalCode": "428",
+        "Country": "台中市大雅區",
+        "CountryEng": "Daya Dist., Taichung City"
+    },
+    {
+        "PostalCode": "429",
+        "Country": "台中市神岡區",
+        "CountryEng": "Shengang Dist., Taichung City"
+    },
+    {
+        "PostalCode": "432",
+        "Country": "台中市大肚區",
+        "CountryEng": "Dadu Dist., Taichung City"
+    },
+    {
+        "PostalCode": "433",
+        "Country": "台中市沙鹿區",
+        "CountryEng": "Shalu Dist., Taichung City"
+    },
+    {
+        "PostalCode": "434",
+        "Country": "台中市龍井區",
+        "CountryEng": "Longjing Dist., Taichung City"
+    },
+    {
+        "PostalCode": "435",
+        "Country": "台中市梧棲區",
+        "CountryEng": "Wuqi Dist., Taichung City"
+    },
+    {
+        "PostalCode": "436",
+        "Country": "台中市清水區",
+        "CountryEng": "Qingshui Dist., Taichung City"
+    },
+    {
+        "PostalCode": "437",
+        "Country": "台中市大甲區",
+        "CountryEng": "Dajia Dist., Taichung City"
+    },
+    {
+        "PostalCode": "438",
+        "Country": "台中市外埔區",
+        "CountryEng": "Waipu Dist., Taichung City"
+    },
+    {
+        "PostalCode": "439",
+        "Country": "台中市大安區",
+        "CountryEng": "Da’an Dist., Taichung City"
+    },
+    {
+        "PostalCode": "500",
+        "Country": "彰化縣彰化市",
+        "CountryEng": "Changhua City, Changhua County"
+    },
+    {
+        "PostalCode": "502",
+        "Country": "彰化縣芬園鄉",
+        "CountryEng": "Fenyuan Township, Changhua County"
+    },
+    {
+        "PostalCode": "503",
+        "Country": "彰化縣花壇鄉",
+        "CountryEng": "Huatan Township, Changhua County"
+    },
+    {
+        "PostalCode": "504",
+        "Country": "彰化縣秀水鄉",
+        "CountryEng": "Xiushui Township, Changhua County"
+    },
+    {
+        "PostalCode": "505",
+        "Country": "彰化縣鹿港鎮",
+        "CountryEng": "Lukang Township, Changhua County"
+    },
+    {
+        "PostalCode": "506",
+        "Country": "彰化縣福興鄉",
+        "CountryEng": "Fuxing Township, Changhua County"
+    },
+    {
+        "PostalCode": "507",
+        "Country": "彰化縣線西鄉",
+        "CountryEng": "Xianxi Township, Changhua County"
+    },
+    {
+        "PostalCode": "508",
+        "Country": "彰化縣和美鎮",
+        "CountryEng": "Hemei Township, Changhua County"
+    },
+    {
+        "PostalCode": "509",
+        "Country": "彰化縣伸港鄉",
+        "CountryEng": "Shengang Township, Changhua County"
+    },
+    {
+        "PostalCode": "510",
+        "Country": "彰化縣員林市",
+        "CountryEng": "Yuanlin City, Changhua County"
+    },
+    {
+        "PostalCode": "511",
+        "Country": "彰化縣社頭鄉",
+        "CountryEng": "Shetou Township, Changhua County"
+    },
+    {
+        "PostalCode": "512",
+        "Country": "彰化縣永靖鄉",
+        "CountryEng": "Yongjing Township, Changhua County"
+    },
+    {
+        "PostalCode": "513",
+        "Country": "彰化縣埔心鄉",
+        "CountryEng": "Puxin Township, Changhua County"
+    },
+    {
+        "PostalCode": "514",
+        "Country": "彰化縣溪湖鎮",
+        "CountryEng": "Xihu Township, Changhua County"
+    },
+    {
+        "PostalCode": "515",
+        "Country": "彰化縣大村鄉",
+        "CountryEng": "Dacun Township, Changhua County"
+    },
+    {
+        "PostalCode": "516",
+        "Country": "彰化縣埔鹽鄉",
+        "CountryEng": "Puyan Township, Changhua County"
+    },
+    {
+        "PostalCode": "520",
+        "Country": "彰化縣田中鎮",
+        "CountryEng": "Tianzhong Township, Changhua County"
+    },
+    {
+        "PostalCode": "521",
+        "Country": "彰化縣北斗鎮",
+        "CountryEng": "Beidou Township, Changhua County"
+    },
+    {
+        "PostalCode": "522",
+        "Country": "彰化縣田尾鄉",
+        "CountryEng": "Tianwei Township, Changhua County"
+    },
+    {
+        "PostalCode": "523",
+        "Country": "彰化縣埤頭鄉",
+        "CountryEng": "Pitou Township, Changhua County"
+    },
+    {
+        "PostalCode": "524",
+        "Country": "彰化縣溪州鄉",
+        "CountryEng": "Xizhou Township, Changhua County"
+    },
+    {
+        "PostalCode": "525",
+        "Country": "彰化縣竹塘鄉",
+        "CountryEng": "Zhutang Township, Changhua County"
+    },
+    {
+        "PostalCode": "526",
+        "Country": "彰化縣二林鎮",
+        "CountryEng": "Erlin Township, Changhua County"
+    },
+    {
+        "PostalCode": "527",
+        "Country": "彰化縣大城鄉",
+        "CountryEng": "Dacheng Township, Changhua County"
+    },
+    {
+        "PostalCode": "528",
+        "Country": "彰化縣芳苑鄉",
+        "CountryEng": "Fangyuan Township, Changhua County"
+    },
+    {
+        "PostalCode": "530",
+        "Country": "彰化縣二水鄉",
+        "CountryEng": "Ershui Township, Changhua County"
+    },
+    {
+        "PostalCode": "540",
+        "Country": "南投縣南投市",
+        "CountryEng": "Nantou City, Nantou County"
+    },
+    {
+        "PostalCode": "541",
+        "Country": "南投縣中寮鄉",
+        "CountryEng": "Zhongliao Township, Nantou County"
+    },
+    {
+        "PostalCode": "542",
+        "Country": "南投縣草屯鎮",
+        "CountryEng": "Caotun Township, Nantou County"
+    },
+    {
+        "PostalCode": "544",
+        "Country": "南投縣國姓鄉",
+        "CountryEng": "Guoxing Township, Nantou County"
+    },
+    {
+        "PostalCode": "545",
+        "Country": "南投縣埔里鎮",
+        "CountryEng": "Puli Township, Nantou County"
+    },
+    {
+        "PostalCode": "546",
+        "Country": "南投縣仁愛鄉",
+        "CountryEng": "Ren’ai Township, Nantou County"
+    },
+    {
+        "PostalCode": "551",
+        "Country": "南投縣名間鄉",
+        "CountryEng": "Mingjian Township, Nantou County"
+    },
+    {
+        "PostalCode": "552",
+        "Country": "南投縣集集鎮",
+        "CountryEng": "Jiji Township, Nantou County"
+    },
+    {
+        "PostalCode": "553",
+        "Country": "南投縣水里鄉",
+        "CountryEng": "Shuili Township, Nantou County"
+    },
+    {
+        "PostalCode": "555",
+        "Country": "南投縣魚池鄉",
+        "CountryEng": "Yuchi Township, Nantou County"
+    },
+    {
+        "PostalCode": "556",
+        "Country": "南投縣信義鄉",
+        "CountryEng": "Xinyi Township, Nantou County"
+    },
+    {
+        "PostalCode": "557",
+        "Country": "南投縣竹山鎮",
+        "CountryEng": "Zhushan Township, Nantou County"
+    },
+    {
+        "PostalCode": "558",
+        "Country": "南投縣鹿谷鄉",
+        "CountryEng": "Lugu Township, Nantou County"
+    },
+    {
+        "PostalCode": "600",
+        "Country": "嘉義市東區",
+        "CountryEng": "East Dist., Chiayi City"
+    },
+    {
+        "PostalCode": "600",
+        "Country": "嘉義市西區",
+        "CountryEng": "West Dist., Chiayi City"
+    },
+    {
+        "PostalCode": "602",
+        "Country": "嘉義縣番路鄉",
+        "CountryEng": "Fanlu Township, Chiayi County"
+    },
+    {
+        "PostalCode": "603",
+        "Country": "嘉義縣梅山鄉",
+        "CountryEng": "Meishan Township, Chiayi County"
+    },
+    {
+        "PostalCode": "604",
+        "Country": "嘉義縣竹崎鄉",
+        "CountryEng": "Zhuqi Township, Chiayi County"
+    },
+    {
+        "PostalCode": "605",
+        "Country": "嘉義縣阿里山鄉",
+        "CountryEng": "Alishan Township, Chiayi County"
+    },
+    {
+        "PostalCode": "606",
+        "Country": "嘉義縣中埔鄉",
+        "CountryEng": "Zhongpu Township, Chiayi County"
+    },
+    {
+        "PostalCode": "607",
+        "Country": "嘉義縣大埔鄉",
+        "CountryEng": "Dapu Township, Chiayi County"
+    },
+    {
+        "PostalCode": "608",
+        "Country": "嘉義縣水上鄉",
+        "CountryEng": "Shuishang Township, Chiayi County"
+    },
+    {
+        "PostalCode": "611",
+        "Country": "嘉義縣鹿草鄉",
+        "CountryEng": "Lucao Township, Chiayi County"
+    },
+    {
+        "PostalCode": "612",
+        "Country": "嘉義縣太保市",
+        "CountryEng": "Taibao City, Chiayi County"
+    },
+    {
+        "PostalCode": "613",
+        "Country": "嘉義縣朴子市",
+        "CountryEng": "Puzi City, Chiayi County"
+    },
+    {
+        "PostalCode": "614",
+        "Country": "嘉義縣東石鄉",
+        "CountryEng": "Dongshi Township, Chiayi County"
+    },
+    {
+        "PostalCode": "615",
+        "Country": "嘉義縣六腳鄉",
+        "CountryEng": "Liujiao Township, Chiayi County"
+    },
+    {
+        "PostalCode": "616",
+        "Country": "嘉義縣新港鄉",
+        "CountryEng": "Xingang Township, Chiayi County"
+    },
+    {
+        "PostalCode": "621",
+        "Country": "嘉義縣民雄鄉",
+        "CountryEng": "Minxiong Township, Chiayi County"
+    },
+    {
+        "PostalCode": "622",
+        "Country": "嘉義縣大林鎮",
+        "CountryEng": "Dalin Township, Chiayi County"
+    },
+    {
+        "PostalCode": "623",
+        "Country": "嘉義縣溪口鄉",
+        "CountryEng": "Xikou Township, Chiayi County"
+    },
+    {
+        "PostalCode": "624",
+        "Country": "嘉義縣義竹鄉",
+        "CountryEng": "Yizhu Township, Chiayi County"
+    },
+    {
+        "PostalCode": "625",
+        "Country": "嘉義縣布袋鎮",
+        "CountryEng": "Budai Township, Chiayi County"
+    },
+    {
+        "PostalCode": "630",
+        "Country": "雲林縣斗南鎮",
+        "CountryEng": "Dounan Township, Yunlin County"
+    },
+    {
+        "PostalCode": "631",
+        "Country": "雲林縣大埤鄉",
+        "CountryEng": "Dapi Township, Yunlin County"
+    },
+    {
+        "PostalCode": "632",
+        "Country": "雲林縣虎尾鎮",
+        "CountryEng": "Huwei Township, Yunlin County"
+    },
+    {
+        "PostalCode": "633",
+        "Country": "雲林縣土庫鎮",
+        "CountryEng": "Tuku Township, Yunlin County"
+    },
+    {
+        "PostalCode": "634",
+        "Country": "雲林縣褒忠鄉",
+        "CountryEng": "Baozhong Township, Yunlin County"
+    },
+    {
+        "PostalCode": "635",
+        "Country": "雲林縣東勢鄉",
+        "CountryEng": "Dongshi Township, Yunlin County"
+    },
+    {
+        "PostalCode": "636",
+        "Country": "雲林縣台西鄉",
+        "CountryEng": "Taixi Township, Yunlin County"
+    },
+    {
+        "PostalCode": "637",
+        "Country": "雲林縣崙背鄉",
+        "CountryEng": "Lunbei Township, Yunlin County"
+    },
+    {
+        "PostalCode": "638",
+        "Country": "雲林縣麥寮鄉",
+        "CountryEng": "Mailiao Township, Yunlin County"
+    },
+    {
+        "PostalCode": "640",
+        "Country": "雲林縣斗六市",
+        "CountryEng": "Douliu City, Yunlin County"
+    },
+    {
+        "PostalCode": "643",
+        "Country": "雲林縣林內鄉",
+        "CountryEng": "Linnei Township, Yunlin County"
+    },
+    {
+        "PostalCode": "646",
+        "Country": "雲林縣古坑鄉",
+        "CountryEng": "Gukeng Township, Yunlin County"
+    },
+    {
+        "PostalCode": "647",
+        "Country": "雲林縣莿桐鄉",
+        "CountryEng": "Citong Township, Yunlin County"
+    },
+    {
+        "PostalCode": "648",
+        "Country": "雲林縣西螺鎮",
+        "CountryEng": "Xiluo Township, Yunlin County"
+    },
+    {
+        "PostalCode": "649",
+        "Country": "雲林縣二崙鄉",
+        "CountryEng": "Erlun Township, Yunlin County"
+    },
+    {
+        "PostalCode": "651",
+        "Country": "雲林縣北港鎮",
+        "CountryEng": "Beigang Township, Yunlin County"
+    },
+    {
+        "PostalCode": "652",
+        "Country": "雲林縣水林鄉",
+        "CountryEng": "Shuilin Township, Yunlin County"
+    },
+    {
+        "PostalCode": "653",
+        "Country": "雲林縣口湖鄉",
+        "CountryEng": "Kouhu Township, Yunlin County"
+    },
+    {
+        "PostalCode": "654",
+        "Country": "雲林縣四湖鄉",
+        "CountryEng": "Sihu Township, Yunlin County"
+    },
+    {
+        "PostalCode": "655",
+        "Country": "雲林縣元長鄉",
+        "CountryEng": "Yuanzhang Township, Yunlin County"
+    },
+    {
+        "PostalCode": "700",
+        "Country": "台南市中西區",
+        "CountryEng": "West Central Dist., Tainan City"
+    },
+    {
+        "PostalCode": "701",
+        "Country": "台南市東區",
+        "CountryEng": "East Dist., Tainan City"
+    },
+    {
+        "PostalCode": "702",
+        "Country": "台南市南區",
+        "CountryEng": "South Dist., Tainan City"
+    },
+    {
+        "PostalCode": "704",
+        "Country": "台南市北區",
+        "CountryEng": "North Dist., Tainan City"
+    },
+    {
+        "PostalCode": "708",
+        "Country": "台南市安平區",
+        "CountryEng": "Anping Dist., Tainan City"
+    },
+    {
+        "PostalCode": "709",
+        "Country": "台南市安南區",
+        "CountryEng": "Annan Dist., Tainan City"
+    },
+    {
+        "PostalCode": "710",
+        "Country": "台南市永康區",
+        "CountryEng": "Yongkang Dist., Tainan City"
+    },
+    {
+        "PostalCode": "711",
+        "Country": "台南市歸仁區",
+        "CountryEng": "Guiren Dist., Tainan City"
+    },
+    {
+        "PostalCode": "712",
+        "Country": "台南市新化區",
+        "CountryEng": "Xinhua Dist., Tainan City"
+    },
+    {
+        "PostalCode": "713",
+        "Country": "台南市左鎮區",
+        "CountryEng": "Zuozhen Dist., Tainan City"
+    },
+    {
+        "PostalCode": "714",
+        "Country": "台南市玉井區",
+        "CountryEng": "Yujing Dist., Tainan City"
+    },
+    {
+        "PostalCode": "715",
+        "Country": "台南市楠西區",
+        "CountryEng": "Nanxi Dist., Tainan City"
+    },
+    {
+        "PostalCode": "716",
+        "Country": "台南市南化區",
+        "CountryEng": "Nanhua Dist., Tainan City"
+    },
+    {
+        "PostalCode": "717",
+        "Country": "台南市仁德區",
+        "CountryEng": "Rende Dist., Tainan City"
+    },
+    {
+        "PostalCode": "718",
+        "Country": "台南市關廟區",
+        "CountryEng": "Guanmiao Dist., Tainan City"
+    },
+    {
+        "PostalCode": "719",
+        "Country": "台南市龍崎區",
+        "CountryEng": "Longqi Dist., Tainan City"
+    },
+    {
+        "PostalCode": "720",
+        "Country": "台南市官田區",
+        "CountryEng": "Guantian Dist., Tainan City"
+    },
+    {
+        "PostalCode": "721",
+        "Country": "台南市麻豆區",
+        "CountryEng": "Madou Dist., Tainan City"
+    },
+    {
+        "PostalCode": "722",
+        "Country": "台南市佳里區",
+        "CountryEng": "Jiali Dist., Tainan City"
+    },
+    {
+        "PostalCode": "723",
+        "Country": "台南市西港區",
+        "CountryEng": "Xigang Dist., Tainan City"
+    },
+    {
+        "PostalCode": "724",
+        "Country": "台南市七股區",
+        "CountryEng": "Qigu Dist., Tainan City"
+    },
+    {
+        "PostalCode": "725",
+        "Country": "台南市將軍區",
+        "CountryEng": "Jiangjun Dist., Tainan City"
+    },
+    {
+        "PostalCode": "726",
+        "Country": "台南市學甲區",
+        "CountryEng": "Xuejia Dist., Tainan City"
+    },
+    {
+        "PostalCode": "727",
+        "Country": "台南市北門區",
+        "CountryEng": "Beimen Dist., Tainan City"
+    },
+    {
+        "PostalCode": "730",
+        "Country": "台南市新營區",
+        "CountryEng": "Xinying Dist., Tainan City"
+    },
+    {
+        "PostalCode": "731",
+        "Country": "台南市後壁區",
+        "CountryEng": "Houbi Dist., Tainan City"
+    },
+    {
+        "PostalCode": "732",
+        "Country": "台南市白河區",
+        "CountryEng": "Baihe Dist., Tainan City"
+    },
+    {
+        "PostalCode": "733",
+        "Country": "台南市東山區",
+        "CountryEng": "Dongshan Dist., Tainan City"
+    },
+    {
+        "PostalCode": "734",
+        "Country": "台南市六甲區",
+        "CountryEng": "Liujia Dist., Tainan City"
+    },
+    {
+        "PostalCode": "735",
+        "Country": "台南市下營區",
+        "CountryEng": "Xiaying Dist., Tainan City"
+    },
+    {
+        "PostalCode": "736",
+        "Country": "台南市柳營區",
+        "CountryEng": "Liuying Dist., Tainan City"
+    },
+    {
+        "PostalCode": "737",
+        "Country": "台南市鹽水區",
+        "CountryEng": "Yanshui Dist., Tainan City"
+    },
+    {
+        "PostalCode": "741",
+        "Country": "台南市善化區",
+        "CountryEng": "Shanhua Dist., Tainan City"
+    },
+    {
+        "PostalCode": "742",
+        "Country": "台南市大內區",
+        "CountryEng": "Danei Dist., Tainan City"
+    },
+    {
+        "PostalCode": "743",
+        "Country": "台南市山上區",
+        "CountryEng": "Shanshang Dist., Tainan City"
+    },
+    {
+        "PostalCode": "744",
+        "Country": "台南市新市區",
+        "CountryEng": "Xinshi Dist., Tainan City"
+    },
+    {
+        "PostalCode": "745",
+        "Country": "台南市安定區",
+        "CountryEng": "Anding Dist., Tainan City"
+    },
+    {
+        "PostalCode": "800",
+        "Country": "高雄市新興區",
+        "CountryEng": "Xinxing Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "801",
+        "Country": "高雄市前金區",
+        "CountryEng": "Qianjin Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "802",
+        "Country": "高雄市苓雅區",
+        "CountryEng": "Lingya Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "803",
+        "Country": "高雄市鹽埕區",
+        "CountryEng": "Yancheng Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "804",
+        "Country": "高雄市鼓山區",
+        "CountryEng": "Gushan Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "805",
+        "Country": "高雄市旗津區",
+        "CountryEng": "Qijin Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "806",
+        "Country": "高雄市前鎮區",
+        "CountryEng": "Qianzhen Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "807",
+        "Country": "高雄市三民區",
+        "CountryEng": "Sanmin Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "811",
+        "Country": "高雄市楠梓區",
+        "CountryEng": "Nanzi Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "812",
+        "Country": "高雄市小港區",
+        "CountryEng": "Xiaogang Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "813",
+        "Country": "高雄市左營區",
+        "CountryEng": "Zuoying Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "814",
+        "Country": "高雄市仁武區",
+        "CountryEng": "Renwu Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "815",
+        "Country": "高雄市大社區",
+        "CountryEng": "Dashe Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "817",
+        "Country": "高雄市東沙群島",
+        "CountryEng": "Dongsha Islands, Nanhai Islands"
+    },
+    {
+        "PostalCode": "819",
+        "Country": "高雄市南沙群島",
+        "CountryEng": "Nansha Islands, Nanhai Islands"
+    },
+    {
+        "PostalCode": "820",
+        "Country": "高雄市岡山區",
+        "CountryEng": "Gangshan Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "821",
+        "Country": "高雄市路竹區",
+        "CountryEng": "Luzhu Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "822",
+        "Country": "高雄市阿蓮區",
+        "CountryEng": "Alian Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "823",
+        "Country": "高雄市田寮區",
+        "CountryEng": "Tianliao Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "824",
+        "Country": "高雄市燕巢區",
+        "CountryEng": "Yanchao Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "825",
+        "Country": "高雄市橋頭區",
+        "CountryEng": "Qiaotou Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "826",
+        "Country": "高雄市梓官區",
+        "CountryEng": "Ziguan Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "827",
+        "Country": "高雄市彌陀區",
+        "CountryEng": "Mituo Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "828",
+        "Country": "高雄市永安區",
+        "CountryEng": "Yong’an Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "829",
+        "Country": "高雄市湖內區",
+        "CountryEng": "Hunei Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "830",
+        "Country": "高雄市鳳山區",
+        "CountryEng": "Fengshan Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "831",
+        "Country": "高雄市大寮區",
+        "CountryEng": "Daliao Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "832",
+        "Country": "高雄市林園區",
+        "CountryEng": "Linyuan Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "833",
+        "Country": "高雄市鳥松區",
+        "CountryEng": "Niaosong Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "840",
+        "Country": "高雄市大樹區",
+        "CountryEng": "Dashu Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "842",
+        "Country": "高雄市旗山區",
+        "CountryEng": "Qishan Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "843",
+        "Country": "高雄市美濃區",
+        "CountryEng": "Meinong Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "844",
+        "Country": "高雄市六龜區",
+        "CountryEng": "Liugui Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "845",
+        "Country": "高雄市內門區",
+        "CountryEng": "Neimen Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "846",
+        "Country": "高雄市杉林區",
+        "CountryEng": "Shanlin Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "847",
+        "Country": "高雄市甲仙區",
+        "CountryEng": "Jiaxian Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "848",
+        "Country": "高雄市桃源區",
+        "CountryEng": "Taoyuan Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "849",
+        "Country": "高雄市那瑪夏區",
+        "CountryEng": "Namaxia Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "851",
+        "Country": "高雄市茂林區",
+        "CountryEng": "Maolin Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "852",
+        "Country": "高雄市茄萣區",
+        "CountryEng": "Qieding Dist., Kaohsiung City"
+    },
+    {
+        "PostalCode": "880",
+        "Country": "澎湖縣馬公市",
+        "CountryEng": "Magong City, Penghu County"
+    },
+    {
+        "PostalCode": "881",
+        "Country": "澎湖縣西嶼鄉",
+        "CountryEng": "Xiyu Township, Penghu County"
+    },
+    {
+        "PostalCode": "882",
+        "Country": "澎湖縣望安鄉",
+        "CountryEng": "Wang’an Township, Penghu County"
+    },
+    {
+        "PostalCode": "883",
+        "Country": "澎湖縣七美鄉",
+        "CountryEng": "Qimei Township, Penghu County"
+    },
+    {
+        "PostalCode": "884",
+        "Country": "澎湖縣白沙鄉",
+        "CountryEng": "Baisha Township, Penghu County"
+    },
+    {
+        "PostalCode": "885",
+        "Country": "澎湖縣湖西鄉",
+        "CountryEng": "Huxi Township, Penghu County"
+    },
+    {
+        "PostalCode": "890",
+        "Country": "金門縣金沙鎮",
+        "CountryEng": "Jinsha Township, Kinmen County"
+    },
+    {
+        "PostalCode": "891",
+        "Country": "金門縣金湖鎮",
+        "CountryEng": "Jinhu Township, Kinmen County"
+    },
+    {
+        "PostalCode": "892",
+        "Country": "金門縣金寧鄉",
+        "CountryEng": "Jinning Township, Kinmen County"
+    },
+    {
+        "PostalCode": "893",
+        "Country": "金門縣金城鎮",
+        "CountryEng": "Jincheng Township, Kinmen County"
+    },
+    {
+        "PostalCode": "894",
+        "Country": "金門縣烈嶼鄉",
+        "CountryEng": "Lieyu Township, Kinmen County"
+    },
+    {
+        "PostalCode": "896",
+        "Country": "金門縣烏坵鄉",
+        "CountryEng": "Wuqiu Township, Kinmen County"
+    },
+    {
+        "PostalCode": "900",
+        "Country": "屏東縣屏東市",
+        "CountryEng": "Pingtung City, Pingtung County"
+    },
+    {
+        "PostalCode": "901",
+        "Country": "屏東縣三地門鄉",
+        "CountryEng": "Sandimen Township, Pingtung County"
+    },
+    {
+        "PostalCode": "902",
+        "Country": "屏東縣霧台鄉",
+        "CountryEng": "Wutai Township, Pingtung County"
+    },
+    {
+        "PostalCode": "903",
+        "Country": "屏東縣瑪家鄉",
+        "CountryEng": "Majia Township, Pingtung County"
+    },
+    {
+        "PostalCode": "904",
+        "Country": "屏東縣九如鄉",
+        "CountryEng": "Jiuru Township, Pingtung County"
+    },
+    {
+        "PostalCode": "905",
+        "Country": "屏東縣里港鄉",
+        "CountryEng": "Ligang Township, Pingtung County"
+    },
+    {
+        "PostalCode": "906",
+        "Country": "屏東縣高樹鄉",
+        "CountryEng": "Gaoshu Township, Pingtung County"
+    },
+    {
+        "PostalCode": "907",
+        "Country": "屏東縣鹽埔鄉",
+        "CountryEng": "Yanpu Township, Pingtung County"
+    },
+    {
+        "PostalCode": "908",
+        "Country": "屏東縣長治鄉",
+        "CountryEng": "Changzhi Township, Pingtung County"
+    },
+    {
+        "PostalCode": "909",
+        "Country": "屏東縣麟洛鄉",
+        "CountryEng": "Linluo Township, Pingtung County"
+    },
+    {
+        "PostalCode": "911",
+        "Country": "屏東縣竹田鄉",
+        "CountryEng": "Zhutian Township, Pingtung County"
+    },
+    {
+        "PostalCode": "912",
+        "Country": "屏東縣內埔鄉",
+        "CountryEng": "Neipu Township, Pingtung County"
+    },
+    {
+        "PostalCode": "913",
+        "Country": "屏東縣萬丹鄉",
+        "CountryEng": "Wandan Township, Pingtung County"
+    },
+    {
+        "PostalCode": "920",
+        "Country": "屏東縣潮州鎮",
+        "CountryEng": "Chaozhou Township, Pingtung County"
+    },
+    {
+        "PostalCode": "921",
+        "Country": "屏東縣泰武鄉",
+        "CountryEng": "Taiwu Township, Pingtung County"
+    },
+    {
+        "PostalCode": "922",
+        "Country": "屏東縣來義鄉",
+        "CountryEng": "Laiyi Township, Pingtung County"
+    },
+    {
+        "PostalCode": "923",
+        "Country": "屏東縣萬巒鄉",
+        "CountryEng": "Wanluan Township, Pingtung County"
+    },
+    {
+        "PostalCode": "924",
+        "Country": "屏東縣崁頂鄉",
+        "CountryEng": "Kanding Township, Pingtung County"
+    },
+    {
+        "PostalCode": "925",
+        "Country": "屏東縣新埤鄉",
+        "CountryEng": "Xinpi Township, Pingtung County"
+    },
+    {
+        "PostalCode": "926",
+        "Country": "屏東縣南州鄉",
+        "CountryEng": "Nanzhou Township, Pingtung County"
+    },
+    {
+        "PostalCode": "927",
+        "Country": "屏東縣林邊鄉",
+        "CountryEng": "Linbian Township, Pingtung County"
+    },
+    {
+        "PostalCode": "928",
+        "Country": "屏東縣東港鎮",
+        "CountryEng": "Donggang Township, Pingtung County"
+    },
+    {
+        "PostalCode": "929",
+        "Country": "屏東縣琉球鄉",
+        "CountryEng": "Liuqiu Township, Pingtung County"
+    },
+    {
+        "PostalCode": "931",
+        "Country": "屏東縣佳冬鄉",
+        "CountryEng": "Jiadong Township, Pingtung County"
+    },
+    {
+        "PostalCode": "932",
+        "Country": "屏東縣新園鄉",
+        "CountryEng": "Xinyuan Township, Pingtung County"
+    },
+    {
+        "PostalCode": "940",
+        "Country": "屏東縣枋寮鄉",
+        "CountryEng": "Fangliao Township, Pingtung County"
+    },
+    {
+        "PostalCode": "941",
+        "Country": "屏東縣枋山鄉",
+        "CountryEng": "Fangshan Township, Pingtung County"
+    },
+    {
+        "PostalCode": "942",
+        "Country": "屏東縣春日鄉",
+        "CountryEng": "Chunri Township, Pingtung County"
+    },
+    {
+        "PostalCode": "943",
+        "Country": "屏東縣獅子鄉",
+        "CountryEng": "Shizi Township, Pingtung County"
+    },
+    {
+        "PostalCode": "944",
+        "Country": "屏東縣車城鄉",
+        "CountryEng": "Checheng Township, Pingtung County"
+    },
+    {
+        "PostalCode": "945",
+        "Country": "屏東縣牡丹鄉",
+        "CountryEng": "Mudan Township, Pingtung County"
+    },
+    {
+        "PostalCode": "946",
+        "Country": "屏東縣恆春鎮",
+        "CountryEng": "Hengchun Township, Pingtung County"
+    },
+    {
+        "PostalCode": "947",
+        "Country": "屏東縣滿州鄉",
+        "CountryEng": "Manzhou Township, Pingtung County"
+    },
+    {
+        "PostalCode": "950",
+        "Country": "台東縣台東市",
+        "CountryEng": "Taitung City, Taitung County"
+    },
+    {
+        "PostalCode": "951",
+        "Country": "台東縣綠島鄉",
+        "CountryEng": "Ludao Township, Taitung County"
+    },
+    {
+        "PostalCode": "952",
+        "Country": "台東縣蘭嶼鄉",
+        "CountryEng": "Lanyu Township, Taitung County"
+    },
+    {
+        "PostalCode": "953",
+        "Country": "台東縣延平鄉",
+        "CountryEng": "Yanping Township, Taitung County"
+    },
+    {
+        "PostalCode": "954",
+        "Country": "台東縣卑南鄉",
+        "CountryEng": "Beinan Township, Taitung County"
+    },
+    {
+        "PostalCode": "955",
+        "Country": "台東縣鹿野鄉",
+        "CountryEng": "Luye Township, Taitung County"
+    },
+    {
+        "PostalCode": "956",
+        "Country": "台東縣關山鎮",
+        "CountryEng": "Guanshan Township, Taitung County"
+    },
+    {
+        "PostalCode": "957",
+        "Country": "台東縣海端鄉",
+        "CountryEng": "Haiduan Township, Taitung County"
+    },
+    {
+        "PostalCode": "958",
+        "Country": "台東縣池上鄉",
+        "CountryEng": "Chishang Township, Taitung County"
+    },
+    {
+        "PostalCode": "959",
+        "Country": "台東縣東河鄉",
+        "CountryEng": "Donghe Township, Taitung County"
+    },
+    {
+        "PostalCode": "961",
+        "Country": "台東縣成功鎮",
+        "CountryEng": "Chenggong Township, Taitung County"
+    },
+    {
+        "PostalCode": "962",
+        "Country": "台東縣長濱鄉",
+        "CountryEng": "Changbin Township, Taitung County"
+    },
+    {
+        "PostalCode": "963",
+        "Country": "台東縣太麻里鄉",
+        "CountryEng": "Taimali Township, Taitung County"
+    },
+    {
+        "PostalCode": "964",
+        "Country": "台東縣金峰鄉",
+        "CountryEng": "Jinfeng Township, Taitung County"
+    },
+    {
+        "PostalCode": "965",
+        "Country": "台東縣大武鄉",
+        "CountryEng": "Dawu Township, Taitung County"
+    },
+    {
+        "PostalCode": "966",
+        "Country": "台東縣達仁鄉",
+        "CountryEng": "Daren Township, Taitung County"
+    },
+    {
+        "PostalCode": "970",
+        "Country": "花蓮縣花蓮市",
+        "CountryEng": "Hualien City, Hualien County"
+    },
+    {
+        "PostalCode": "971",
+        "Country": "花蓮縣新城鄉",
+        "CountryEng": "Xincheng Township, Hualien County"
+    },
+    {
+        "PostalCode": "972",
+        "Country": "花蓮縣秀林鄉",
+        "CountryEng": "Xiulin Township, Hualien County"
+    },
+    {
+        "PostalCode": "973",
+        "Country": "花蓮縣吉安鄉",
+        "CountryEng": "Ji’an Township, Hualien County"
+    },
+    {
+        "PostalCode": "974",
+        "Country": "花蓮縣壽豐鄉",
+        "CountryEng": "Shoufeng Township, Hualien County"
+    },
+    {
+        "PostalCode": "975",
+        "Country": "花蓮縣鳳林鎮",
+        "CountryEng": "Fenglin Township, Hualien County"
+    },
+    {
+        "PostalCode": "976",
+        "Country": "花蓮縣光復鄉",
+        "CountryEng": "Guangfu Township, Hualien County"
+    },
+    {
+        "PostalCode": "977",
+        "Country": "花蓮縣豐濱鄉",
+        "CountryEng": "Fengbin Township, Hualien County"
+    },
+    {
+        "PostalCode": "978",
+        "Country": "花蓮縣瑞穗鄉",
+        "CountryEng": "Ruisui Township, Hualien County"
+    },
+    {
+        "PostalCode": "979",
+        "Country": "花蓮縣萬榮鄉",
+        "CountryEng": "Wanrong Township, Hualien County"
+    },
+    {
+        "PostalCode": "981",
+        "Country": "花蓮縣玉里鎮",
+        "CountryEng": "Yuli Township, Hualien County"
+    },
+    {
+        "PostalCode": "982",
+        "Country": "花蓮縣卓溪鄉",
+        "CountryEng": "Zhuoxi Township, Hualien County"
+    },
+    {
+        "PostalCode": "983",
+        "Country": "花蓮縣富里鄉",
+        "CountryEng": "Fuli Township, Hualien County"
+    }
+]

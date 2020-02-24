@@ -1,0 +1,79 @@
+<!-- @format -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Type Ahead 👀</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>縣市鄉鎮中英對照查詢</h1>
+    <ul class="search-form">
+      <input type="text" class="search" placeholder="輸入郵遞區號或縣市名稱(或英文)" />
+      <ul class="suggestions"></ul>
+    </ul>
+    <!-- js -->
+    <script src="../plugins/jquery-3.4.1.min.js"></script>
+    <!-- JQ -->
+    <script>
+      var alllist;
+      // // const endpoint = "https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json";
+      // $.getJSON('data.json',function (list){
+      //   alllist=list;
+      // })
+    </script>
+    <!-- 原生JS -->
+    <script>
+      fetch("data.json")
+        .then(function(response) {
+          return response.json();
+        })
+        .then(function(list) {
+          alllist = list;
+        });
+      function searchMatch(words, alllist) {
+        return alllist.filter(function(result) {
+          var match2 = new RegExp(words, "gi");
+          return result.PostalCode.match(match2) || result.Country.match(match2) || result.CountryEng.match(match2);
+        });
+      }
+      function searchResult() {
+        var matchArray = searchMatch(this.value, alllist);
+        var html = matchArray
+          .map(place => {
+            var regex = new RegExp(this.vlaue, "g");
+            var val = this.value;
+            var pscode = "";
+            var country = "";
+            var countryeng = "";
+            console.log(regex);
+            if (place.PostalCode.includes(val)) {
+              pscode = place.PostalCode.replace(regex, `<span class="hl">${val}</span>`);
+            } else {
+              pscode = place.PostalCode;
+            }
+            if (place.Country.includes(val)) {
+              country = place.Country.replace(regex, `<span class="hl">${val}</span>`);
+            } else {
+              country = place.Country;
+            }
+            if (place.CountryEng.includes(val)) {
+              countryeng = place.CountryEng.replace(regex, `<span class="hl">${val}</span>`);
+            } else {
+              countryeng = place.CountryEng;
+            }
+            return `
+            <li>${pscode}<br> ${country}(${countryeng})</li>
+          `;
+          })
+          .join("");
+        suggestions.innerHTML = html;
+      }
+      const searchInput = document.querySelector(".search");
+      const suggestions = document.querySelector(".suggestions");
+      suggestions.addEventListener("keyup", searchResult);
+      searchInput.addEventListener("change", searchResult);
+    </script>
+  </body>
+</html>

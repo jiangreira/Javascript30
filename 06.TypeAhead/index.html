@@ -4,7 +4,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Type Ahead 👀</title>
+    <title>關鍵字查詢</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -18,10 +18,19 @@
     <!-- JQ -->
     <script>
       var alllist;
-      // // const endpoint = "https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json";
       // $.getJSON('data.json',function (list){
       //   alllist=list;
       // })
+      // var searchInput=$('.search');
+      // var suggestions=$('.suggestions')
+      // $(searchInput).on('change',searchResult)
+      // $(searchInput).on('keyup',searchResult)
+      // function searchResult(){
+
+      // }
+      // function searchMatch(words,alllist){
+
+      // }
     </script>
     <!-- 原生JS -->
     <script>
@@ -42,9 +51,9 @@
         var matchArray = searchMatch(this.value, alllist);
         var html = matchArray
           .map(place => {
-            // var regex = new RegExp(this.vlaue, "gi");
             if (place.PostalCode.includes(this.value)) {
-              var pscode = place.PostalCode.replace(this.value, `<span class="hl">${this.value}</span> `);
+              var pscode = place.PostalCode.replace(this.value, `<span class="hl">${this.value}</span>`);
+
             } else {
               var pscode = place.PostalCode;
             }
@@ -59,7 +68,7 @@
               var countryeng = place.CountryEng;
             }
             return `
-            <li>${pscode}<br> ${country}(${countryeng})</li>
+            <li>${pscode}  ${country + '('+countryeng+')'}</li>
           `;
           })
           .join("");

@@ -18,22 +18,35 @@
     <!-- JQ -->
     <script>
       var alllist;
-      // $.getJSON('data.json',function (list){
-      //   alllist=list;
-      // })
-      // var searchInput=$('.search');
-      // var suggestions=$('.suggestions')
-      // $(searchInput).on('change',searchResult)
-      // $(searchInput).on('keyup',searchResult)
-      // function searchResult(){
-
-      // }
-      // function searchMatch(words,alllist){
-
-      // }
+      $.getJSON("data.json", function(list) {
+        alllist = list;
+      });
+      $(".search").on('keyup',searchResult);
+      $(".search").on('change',searchResult);
+      function searchResult() {
+        var matchArray = searchMatch(this.value, alllist);
+        console.log(matchArray)
+        var print = matchArray
+          .map(place => {
+            var pscode = place.PostalCode.replace(this.value, `<span class="hl">${this.value}</span>`);
+            var country = place.Country.replace(this.value, `<span class="hl">${this.value}</span>`);
+            var countryeng = place.CountryEng.replace(this.value, `<span class="hl">${this.value}</span>`);
+            return `
+            <li>${pscode}  ${country + "(" + countryeng + ")"}</li>
+          `;
+          })
+          .join("");
+        $('.suggestions').html(print);
+      }
+      function searchMatch(words, alllist) {
+        return alllist.filter(function(result) {
+          var match2 = new RegExp(words, "gi");
+          return result.PostalCode.match(match2) || result.Country.match(match2) || result.CountryEng.match(match2);
+        });
+      }
     </script>
     <!-- 原生JS -->
-    <script>
+    <!-- <script>
       fetch("data.json")
         .then(function(response) {
           return response.json();
@@ -51,24 +64,11 @@
         var matchArray = searchMatch(this.value, alllist);
         var html = matchArray
           .map(place => {
-            if (place.PostalCode.includes(this.value)) {
-              var pscode = place.PostalCode.replace(this.value, `<span class="hl">${this.value}</span>`);
-
-            } else {
-              var pscode = place.PostalCode;
-            }
-            if (place.Country.includes(this.value)) {
-              var country = place.Country.replace(this.value, `<span class="hl">${this.value}</span>`);
-            } else {
-              var country = place.Country;
-            }
-            if (place.CountryEng.includes(this.value)) {
-              var countryeng = place.CountryEng.replace(this.value, `<span class="hl">${this.value}</span>`);
-            } else {
-              var countryeng = place.CountryEng;
-            }
+            var pscode = place.PostalCode.replace(this.value, `<span class="hl">${this.value}</span>`);
+            var country = place.Country.replace(this.value, `<span class="hl">${this.value}</span>`);
+            var countryeng = place.CountryEng.replace(this.value, `<span class="hl">${this.value}</span>`);
             return `
-            <li>${pscode}  ${country + '('+countryeng+')'}</li>
+            <li>${pscode}  ${country + "(" + countryeng + ")"}</li>
           `;
           })
           .join("");
@@ -78,6 +78,6 @@
       const suggestions = document.querySelector(".suggestions");
       suggestions.addEventListener("keyup", searchResult);
       searchInput.addEventListener("change", searchResult);
-    </script>
+    </script> -->
   </body>
 </html>

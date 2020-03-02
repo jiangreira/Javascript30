@@ -16,7 +16,9 @@ Javascript30
 |03.CSSVariables | [03.DEMO]  | [Javascript30-03 用JS調整CSS濾鏡] |
 |04.ArrayCardio-1| [04.DEMO]  | [Javascript30-04 Array陣列-01] |
 |05.FlexGallery  | [05.DEMO]  | [Javascript30-05 FlexGallery] |
-|06.TypeAhead    | [06.DEMO]  | [Javascript30-06 關鍵字查詢]
+|06.TypeAhead    | [06.DEMO]  | [Javascript30-06 關鍵字查詢]    |
+|07.ArrayCardio-2| [07.DEMO]  | [Javascript30-07 Array陣列-02] |
+|08.HTMLCanvas   | [08.DEMO]  | [Javascript30-08 HTMLCanvas] |
 
 [01.DEMO]:https://jiangreira.github.io/Javascript30/01.DrumKit/index.html
 [Javascript30-01 KEYCODE]:https://hackmd.io/@jiangreira/SJBMfNKm8
@@ -30,3 +32,7 @@ Javascript30
 [Javascript30-05 FlexGallery]:https://hackmd.io/@jiangreira/BJWbagTm8
 [06.DEMO]:https://jiangreira.github.io/Javascript30/06.TypeAhead/index.html
 [Javascript30-06 關鍵字查詢]:https://hackmd.io/@jiangreira/Bk3Yg76X8
+[07.DEMO]:https://jiangreira.github.io/Javascript30/ArrayCardio-2/index.html
+[Javascript30-07 Array陣列-02]:https://hackmd.io/@jiangreira/H1tdj64V8
+[08.DEMO]:https://jiangreira.github.io/Javascript30/08.HTMLCanvas/index.html
+[Javascript30-08 HTMLCanvas]:https://hackmd.io/@jiangreira/BkV6xlcNI

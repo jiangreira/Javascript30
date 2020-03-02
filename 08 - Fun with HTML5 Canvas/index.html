@@ -1,0 +1,66 @@
+<!-- @format -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>HTML5 Canvas</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        text-align: center;
+        font-family: "Noto Sans TC";
+        color: wheat;
+        background: black;
+      }
+      canvas {
+        background: white;
+      }
+    </style>
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Draw Something!</h1>
+    <canvas id="draw" width="800" height="400"></canvas>
+    <footer>
+      Reirajiang 2020
+    </footer>
+    <script>
+      let canvas = document.querySelector("#draw");
+      let ctx = canvas.getContext("2d"); // 取得canvas
+      ctx.lineWidth = 12; //設定線的寬度
+      ctx.lineCap = "round"; //線的最高點形狀
+      ctx.lineJoin = "round"; //線的轉角處形狀
+      let isDraw = false; //判斷是否要畫畫
+      let direction = true; //判斷方向(線粗細)
+
+      let lastX = 0;
+      let lastY = 0;
+      let hue = 0;
+
+      function draw(e) {
+        if (!isDraw) return;
+        ctx.strokeStyle = `hsl(${hue},100%,50%)`;
+        ctx.beginPath(); //開始畫畫
+        ctx.moveTo(lastX, lastY);
+        ctx.lineTo(e.offsetX, e.offsetY);
+        ctx.stroke();
+        [lastX, lastY] = [e.offsetX, e.offsetY];
+        hue >= 360 ? (hue = 0) : hue++;
+        direction ? ctx.lineWidth++ : ctx.lineWidth--;
+        ctx.lineWidth >= 40 || ctx.lineWidth <= 1 ? (direction = !direction) : direction;
+      }
+      // 監聽動作
+      canvas.addEventListener("mousedown", e => {
+        isDraw = true;
+        [lastX, lastY] = [e.offsetX, e.offsetY];
+        console.log(e);
+      });
+
+      canvas.addEventListener("mousemove", draw);
+      canvas.addEventListener("mouseup", () => (isDraw = false));
+      canvas.addEventListener("mouseleave", () => (isDraw = false));
+    </script>
+  </body>
+</html>

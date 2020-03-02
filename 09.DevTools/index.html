@@ -1,0 +1,89 @@
+<!-- @format -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Console Tricks!</title>
+    <style></style>
+  </head>
+  <body>
+    <span>此章節須配合開發工具F12檢閱，詳細說明可至<a href="https://hackmd.io/@jiangreira/SkqNo_q4L">這裡</a></span>
+    <p onClick="makeGreen()">×click here×</p>
+    <button onclick="myFunction()">跟蹤軌跡</button>
+    <script>
+      const dogs = [
+        { name: "Snickers", age: 2 },
+        { name: "hugo", age: 8 }
+      ];
+      const p = document.querySelector("p");
+      function makeGreen() {
+        p.style.color = "#BADA55";
+        p.style.fontSize = "50px";
+      }
+
+      // Regular
+      console.log("hello");
+      // Interpolated
+      console.log("Hi,%s!", "Reira");
+      // Styled
+      console.log("%cHi", "color:red;font-size:20px");
+
+      // warning!
+      console.warn("Oh,This is warning");
+      // Error :|
+      console.error("Oh,This is error");
+      // Info
+      console.info("Oh,This is info");
+      // Testing
+      console.assert(p.classList.contains("ohhhh"), "Contains Class ohhhh is wrong");
+      // clearing
+      console.clear();
+      // Viewing DOM Elements
+      console.log(p);
+      console.dir(p);
+      // Grouping together
+      console.group("Animal cate");
+      dogs.forEach(dog => {
+        console.groupCollapsed(`${dog.name}`);
+        console.log(`This is ${dog.name}.`);
+        console.log(`${dog.name} is ${dog.age} old.`);
+        console.groupEnd(`${dog.name}`);
+      });
+      console.groupEnd("Animal cate");
+
+      console.clear();
+
+      // counting
+      console.count("Reira");
+      console.count("ReiraJiang");
+      console.count("Reira");
+      console.count("ReiraJiang");
+      console.count("ReiraJiang");
+      console.count("Reira");
+      console.count("Reira");
+      console.count("ReiraJiang");
+      console.count("Reira");
+      console.count("ReiraJiang");
+      console.clear();
+
+      // timing
+      // console.time("fetch data");
+      // fetch("../06.TypeAhead/data.json").then(data => {
+      //   console.timeEnd("fetch data");
+      //   console.log(data);
+      // });
+
+      //trace
+      function myFunction() {
+        myOtherFunction();
+      }
+      function myOtherFunction() {
+        console.trace();
+      }
+      console.clear();
+      // table
+      console.table(dogs);
+    </script>
+  </body>
+</html>

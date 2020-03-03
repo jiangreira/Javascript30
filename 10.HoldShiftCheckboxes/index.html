@@ -1,0 +1,125 @@
+<!-- @format -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hold Shift to Check Multiple Checkboxes</title>
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap" rel="stylesheet" type="text/css" />
+    <style>
+      html {
+        font-family: sans-serif;
+        background: #ffc600;
+        font-family: "Noto Sans TC";
+      }
+      h1 {
+        text-align: center;
+      }
+
+      .inbox {
+        max-width: 400px;
+        margin: 25px auto;
+        background: white;
+        border-radius: 5px;
+        box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
+      }
+
+      .item {
+        display: flex;
+        align-items: center;
+        border-bottom: 1px solid #f1f1f1;
+      }
+
+      .item:last-child {
+        border-bottom: 0;
+      }
+
+      input:checked + p {
+        background: #f9f9f9;
+        text-decoration: line-through;
+      }
+
+      input[type="checkbox"] {
+        margin: 20px;
+      }
+
+      p {
+        margin: 0;
+        padding: 20px;
+        transition: background 0.2s;
+        flex: 1;
+        font-family: "Noto Sans TC";
+        font-size: 20px;
+        font-weight: 200;
+        border-left: 1px solid #d1e2ff;
+      }
+      a{
+        color:rgb(190, 49, 49);
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>按住shift可以核取多個</h1>
+    <div class="inbox">
+      <div class="item">
+        <input type="checkbox" />
+        <p>這是個清單列表</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" />
+        <p>選取一清單</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" />
+        <p>然後按住SHIFT</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" />
+        <p>然後再選取另外的清單</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" />
+        <p>介於這兩個之間的清單都會被選取</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" />
+        <p>快來嘗試看看 :)</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" />
+        <p>Hi,I'm Reira</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" />
+        <p>And this is my GitHub</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" />
+        <p><a href="https://github.com/jiangreira">→ Click me!</a></p>
+      </div>
+    </div>
+
+    <script>
+      const chkboxs = document.querySelectorAll("input[type=checkbox]");
+      let lastchecked;
+      function chked(e) {
+        if (e.shiftKey && this.checked) {
+          let inBetween = false;
+          chkboxs.forEach(chkbox => {
+            if (chkbox === this || chkbox === lastchecked) {
+              inBetween = !inBetween;
+            }
+            if (inBetween) {
+              chkbox.checked = true;
+            }
+          });
+        }
+        lastchecked = this;
+      }
+      chkboxs.forEach(checkbox => {
+        checkbox.addEventListener("click", chked);
+      });
+    </script>
+  </body>
+</html>

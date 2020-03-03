@@ -21,6 +21,7 @@ Javascript30
 |08.HTMLCanvas            | [08.DEMO]   | [Javascript30-08 HTMLCanvas] |
 |09.DevTools              | [09.DEMO]   | [Javascript30-09 開發除錯工具] |
 |10.HoldShiftCheckboxes   | [10.DEMO]   | [Javascript30-10 CheckBox清單] |
+|11.CustomVideoPlayer     | [11.DEMO]   | [Javascript30-11 客製化播放器]  |
 
 [01.DEMO]:https://jiangreira.github.io/Javascript30/01.DrumKit/index.html
 [Javascript30-01 KEYCODE]:https://hackmd.io/@jiangreira/SJBMfNKm8
@@ -42,3 +43,5 @@ Javascript30
 [Javascript30-09 開發除錯工具]:https://hackmd.io/@jiangreira/SkqNo_q4L
 [10.DEMO]:https://jiangreira.github.io/Javascript30/10.HoldShiftCheckboxes/index.html
 [Javascript30-10 CheckBox清單]:https://hackmd.io/@jiangreira/S1CUlF9NU
+[11.DEMO]:https://jiangreira.github.io/Javascript30/11.CustomVideoPlayer/index.html
+[Javascript30-11 客製化播放器]:https://hackmd.io/@jiangreira/rkIh6HsE8

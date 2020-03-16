@@ -22,7 +22,7 @@ Javascript30
 |09.DevTools              | [09.DEMO]   | [Javascript30-09 開發除錯工具] |
 |10.HoldShiftCheckboxes   | [10.DEMO]   | [Javascript30-10 CheckBox清單] |
 |11.CustomVideoPlayer     | [11.DEMO]   | [Javascript30-11 客製化播放器]  |
-
+|12.KeySequenceDetection  | [12.DEMO]   | [Javascript30-11 偵測按鍵觸發動畫]  |
 [01.DEMO]:https://jiangreira.github.io/Javascript30/01.DrumKit/index.html
 [Javascript30-01 KEYCODE]:https://hackmd.io/@jiangreira/SJBMfNKm8
 [02.DEMO]:https://jiangreira.github.io/Javascript30/02.Clock/index.html
@@ -35,7 +35,7 @@ Javascript30
 [Javascript30-05 FlexGallery]:https://hackmd.io/@jiangreira/BJWbagTm8
 [06.DEMO]:https://jiangreira.github.io/Javascript30/06.TypeAhead/index.html
 [Javascript30-06 關鍵字查詢]:https://hackmd.io/@jiangreira/Bk3Yg76X8
-[07.DEMO]:https://jiangreira.github.io/Javascript30/ArrayCardio-2/index.html
+[07.DEMO]:https://jiangreira.github.io/Javascript30/07.ArrayCardio-2/index.html
 [Javascript30-07 Array陣列-02]:https://hackmd.io/@jiangreira/H1tdj64V8
 [08.DEMO]:https://jiangreira.github.io/Javascript30/08.HTMLCanvas/index.html
 [Javascript30-08 HTMLCanvas]:https://hackmd.io/@jiangreira/BkV6xlcNI
@@ -45,3 +45,5 @@ Javascript30
 [Javascript30-10 CheckBox清單]:https://hackmd.io/@jiangreira/S1CUlF9NU
 [11.DEMO]:https://jiangreira.github.io/Javascript30/11.CustomVideoPlayer/index.html
 [Javascript30-11 客製化播放器]:https://hackmd.io/@jiangreira/rkIh6HsE8
+[12.DEMO]:https://jiangreira.github.io/Javascript30/12.KeySequenceDetection/index.html
+[Javascript30-11 偵測按鍵觸發動畫]:https://hackmd.io/@jiangreira/ryH8yO_SI

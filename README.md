@@ -23,6 +23,8 @@ Javascript30
 |10.HoldShiftCheckboxes   | [10.DEMO]   | [Javascript30-10 CheckBox清單] |
 |11.CustomVideoPlayer     | [11.DEMO]   | [Javascript30-11 客製化播放器]  |
 |12.KeySequenceDetection  | [12.DEMO]   | [Javascript30-11 偵測按鍵觸發動畫]  |
+
+
 [01.DEMO]:https://jiangreira.github.io/Javascript30/01.DrumKit/index.html
 [Javascript30-01 KEYCODE]:https://hackmd.io/@jiangreira/SJBMfNKm8
 [02.DEMO]:https://jiangreira.github.io/Javascript30/02.Clock/index.html
